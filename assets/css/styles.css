@@ -254,5 +254,9 @@
       margin: 1em !important;
     }
   }
+
+.tab {
+    padding-left: 300px; /* Adjust to your desired tab space */
+}
   
   /*# sourceMappingURL=styles.css.map */
